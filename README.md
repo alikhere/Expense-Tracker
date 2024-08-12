@@ -23,8 +23,6 @@ An Expense Tracker application developed using HTML, CSS, and JavaScript. This a
 
 To run this project, you only need a modern web browser.
 
-### Installation
+## Screenshots
+![Screenshot from 2024-08-13 03-12-05](https://github.com/user-attachments/assets/22cab069-dcb2-447b-a666-e092f4d622ab)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
